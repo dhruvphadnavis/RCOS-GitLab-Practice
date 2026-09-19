@@ -1,2 +1,6 @@
 # RCOS-GitLab-Practice
-This is a practice repo for assignment 1 for my RCOS class.
+
+	- Dhruv Phadnavis
+	![Picture of myself](IMG_2719.JPG)
+	- 2029
+	- Laser simulations (Project Elara)
